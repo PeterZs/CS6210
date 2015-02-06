@@ -1,6 +1,6 @@
 #### GTThread Library Makefile
 
-CFLAGS  = -Wall -pedantic
+CFLAGS  = -Wall
 LFLAGS  =
 CC      = gcc
 RM      = /bin/rm -rf
@@ -9,15 +9,20 @@ RANLIB  = ranlib
 
 LIBRARY = gtthread.a
 
-LIB_SRC = gtthread.c gtthread_sched.c gtthread_mutex.c
+LIB_SRC = gtthread.c gtthread_lib.c
 
 LIB_OBJ = $(patsubst %.c,%.o,$(LIB_SRC))
+
+APP_SRC = diningphilosophers.c 
+
+APP_NAME = Proc
 
 # pattern rule for object files
 %.o: %.c
 	$(CC) -c $(CFLAGS) $< -o $@
 
 all: $(LIBRARY)
+	$(CC) $(LFLAGS) -o $(APP_NAME) $(APP_SRC) $(LIBRARY)
 
 $(LIBRARY): $(LIB_OBJ)
 	$(AR) $(LIBRARY) $(LIB_OBJ)

@@ -1,0 +1,19 @@
+
+1. Linux Platform
+   
+   I implemented this project on RedHat 6.4.
+
+2. Preemptive scheduler implementation
+
+   Every thread has a fair share of CPU time. When time is up, the current tcb'll be cycled to the tail of ready queue.
+   In my implementation, no tcb'll be removed from queue. When a tcb finishes, it'll only be logically marked as completed.
+
+3. How to compile
+
+   Simply typing the "make" command in the terminal will produce "Proc" executable file and “gtthread.a” library in current directory. 
+   NOTE: When compiling with test cases, please include header file in the form of #include "gtthread.h". Do NOT include
+         header file in the form of #include <gtthread.h>, because the header resides in current directory.
+
+4. Strategy of preventing deadlock in dining philosophers
+
+   Simple strategy: Never let philosopher take last chopstick if no hungry philosopher has two chopsticks afterwards.

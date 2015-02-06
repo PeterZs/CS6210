@@ -1,5 +1,29 @@
 #ifndef __GTTHREAD_H
 #define __GTTHREAD_H
+#include "gtthread_lib.h"
+#include <stddef.h>
+
+#define STACK_SIZE 128000000
+#define GTTHREAD_CANCELED 16
+
+/**
+ * Global variables are initialized in gtthread_init() function
+ */
+size_t thread_counter;     /* start with only 1 main thread */
+queue_t ready_queue;       /* global queue maintained by library */
+gtthread_tcb* Main_tcb;    /* Keep track of main thread's tcb */
+gtthread_tcb* current_tcb; /* keep track of current running tcb */
+
+struct itimerval itimer;   /* Global timer */
+sigset_t global_blocker;   /* Block signal in every library procedure,
+                            * it won't block entire thread
+                            */
+struct sigaction action;   /* Global handler of signal pointing to schedule() func */
+bool isInitialized;        /* Global flag for initialization */
+gtthread_t main_tid;
+long time_slice;
+
+
 
 /* Must be called before any of the below functions. Failure to do so may
  * result in undefined behavior. 'period' is the scheduling quantum (interval)
@@ -38,6 +62,7 @@ gtthread_t gtthread_self(void);
 /* see man pthread_mutex(3); except init does not have the mutexattr parameter,
  * and should behave as if mutexattr is NULL (i.e., default attributes); also,
  * static initializers do not need to be implemented */
+
 int  gtthread_mutex_init(gtthread_mutex_t *mutex);
 int  gtthread_mutex_lock(gtthread_mutex_t *mutex);
 int  gtthread_mutex_unlock(gtthread_mutex_t *mutex);
