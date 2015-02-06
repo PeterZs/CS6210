@@ -105,11 +105,7 @@ void resume_timer(){
 }
 
 void scheduler(){ 
-  /**
-   * There is no need to block signal in the scheduler, since
-   * it'll be blocked/unblocked automatically.
-   */
-  
+
   sigprocmask(SIG_BLOCK, &global_blocker, NULL);
   pause_timer();
   sigprocmask(SIG_UNBLOCK, &global_blocker, NULL);
@@ -130,7 +126,6 @@ void scheduler(){
      */
     while( ready_queue._head->_next->_tcb->_isCompleted == true ||
            ready_queue._head->_next->_tcb->_isBlocked == true){
-      /* if program works correctly, there won't be a dead loop */
       queue_cycle_signal(&ready_queue);
     }
     
@@ -140,9 +135,7 @@ void scheduler(){
     
   }
   else{
-    /**
-     * Since current_tcb is the only tcb, and it's finished...
-     */
+
     if(current_tcb->_isCompleted == true)
       exit(0);
   }
