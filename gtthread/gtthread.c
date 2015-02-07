@@ -149,6 +149,11 @@ int gtthread_cancel(gtthread_t thread){
     target_tcb->_joinTcb->_joinVal = (void*)garbage;
   }
   
+  if(current_tcb->_tid == thread){
+    sigprocmask(SIG_UNBLOCK, &global_blocker, NULL);
+    scheduler();
+  }
+
   sigprocmask(SIG_UNBLOCK, &global_blocker, NULL);
   return 0;
 }
