@@ -1,0 +1,441 @@
+======== OpenMP MCS standalone test ========
+========== Round 1 test ==========
+result for 2 threads
+Total average: 0.837610
+ 
+result for 3 threads
+Total average: 1.051140
+ 
+result for 4 threads
+Total average: 1.372110
+ 
+result for 5 threads
+Total average: 1.622092
+ 
+result for 6 threads
+Total average: 2.098020
+ 
+result for 7 threads
+Total average: 2.146671
+ 
+result for 8 threads
+Total average: 2.533255
+ 
+========== Round 2 test ==========
+result for 2 threads
+Total average: 0.827400
+ 
+result for 3 threads
+Total average: 0.988847
+ 
+result for 4 threads
+Total average: 1.373645
+ 
+result for 5 threads
+Total average: 1.691784
+ 
+result for 6 threads
+Total average: 2.130873
+ 
+result for 7 threads
+Total average: 1.883463
+ 
+result for 8 threads
+Total average: 2.147220
+ 
+========== Round 3 test ==========
+result for 2 threads
+Total average: 0.804340
+ 
+result for 3 threads
+Total average: 0.990787
+ 
+result for 4 threads
+Total average: 1.385375
+ 
+result for 5 threads
+Total average: 1.636648
+ 
+result for 6 threads
+Total average: 1.947997
+ 
+result for 7 threads
+Total average: 2.085249
+ 
+result for 8 threads
+Total average: 2.124155
+ 
+========== Round 4 test ==========
+result for 2 threads
+Total average: 0.814000
+ 
+result for 3 threads
+Total average: 0.978380
+ 
+result for 4 threads
+Total average: 1.378400
+ 
+result for 5 threads
+Total average: 1.664436
+ 
+result for 6 threads
+Total average: 2.142927
+ 
+result for 7 threads
+Total average: 2.046397
+ 
+result for 8 threads
+Total average: 2.335215
+ 
+========== Round 5 test ==========
+result for 2 threads
+Total average: 0.804710
+ 
+result for 3 threads
+Total average: 1.002867
+ 
+result for 4 threads
+Total average: 1.369685
+ 
+result for 5 threads
+Total average: 1.680780
+ 
+result for 6 threads
+Total average: 2.094977
+ 
+result for 7 threads
+Total average: 2.193206
+ 
+result for 8 threads
+Total average: 2.401865
+ 
+========== Round 6 test ==========
+result for 2 threads
+Total average: 0.817230
+ 
+result for 3 threads
+Total average: 1.022833
+ 
+result for 4 threads
+Total average: 1.396980
+ 
+result for 5 threads
+Total average: 1.666604
+ 
+result for 6 threads
+Total average: 2.040907
+ 
+result for 7 threads
+Total average: 1.954700
+ 
+result for 8 threads
+Total average: 2.451495
+ 
+========== Round 7 test ==========
+result for 2 threads
+Total average: 0.814170
+ 
+result for 3 threads
+Total average: 0.993053
+ 
+result for 4 threads
+Total average: 1.357035
+ 
+result for 5 threads
+Total average: 1.649012
+ 
+result for 6 threads
+Total average: 2.105213
+ 
+result for 7 threads
+Total average: 2.311589
+ 
+result for 8 threads
+Total average: 2.016780
+ 
+========== Round 8 test ==========
+result for 2 threads
+Total average: 0.817650
+ 
+result for 3 threads
+Total average: 0.980047
+ 
+result for 4 threads
+Total average: 1.368340
+ 
+result for 5 threads
+Total average: 1.669600
+ 
+result for 6 threads
+Total average: 2.218987
+ 
+result for 7 threads
+Total average: 2.392917
+ 
+result for 8 threads
+Total average: 2.535132
+ 
+========== Round 9 test ==========
+result for 2 threads
+Total average: 0.826530
+ 
+result for 3 threads
+Total average: 0.988907
+ 
+result for 4 threads
+Total average: 1.381435
+ 
+result for 5 threads
+Total average: 1.642916
+ 
+result for 6 threads
+Total average: 2.092830
+ 
+result for 7 threads
+Total average: 2.091054
+ 
+result for 8 threads
+Total average: 2.457603
+ 
+========== Round 10 test ==========
+result for 2 threads
+Total average: 0.805090
+ 
+result for 3 threads
+Total average: 0.965480
+ 
+result for 4 threads
+Total average: 1.350330
+ 
+result for 5 threads
+Total average: 1.598624
+ 
+result for 6 threads
+Total average: 2.060887
+ 
+result for 7 threads
+Total average: 2.138860
+ 
+result for 8 threads
+Total average: 2.193745
+ 
+========== Round 11 test ==========
+result for 2 threads
+Total average: 0.791030
+ 
+result for 3 threads
+Total average: 1.002613
+ 
+result for 4 threads
+Total average: 1.326245
+ 
+result for 5 threads
+Total average: 1.635544
+ 
+result for 6 threads
+Total average: 2.107443
+ 
+result for 7 threads
+Total average: 2.025934
+ 
+result for 8 threads
+Total average: 2.492223
+ 
+========== Round 12 test ==========
+result for 2 threads
+Total average: 0.801330
+ 
+result for 3 threads
+Total average: 1.008680
+ 
+result for 4 threads
+Total average: 1.351950
+ 
+result for 5 threads
+Total average: 1.599388
+ 
+result for 6 threads
+Total average: 2.145687
+ 
+result for 7 threads
+Total average: 2.038294
+ 
+result for 8 threads
+Total average: 2.578232
+ 
+========== Round 13 test ==========
+result for 2 threads
+Total average: 0.787130
+ 
+result for 3 threads
+Total average: 0.991793
+ 
+result for 4 threads
+Total average: 1.357605
+ 
+result for 5 threads
+Total average: 1.671168
+ 
+result for 6 threads
+Total average: 2.192077
+ 
+result for 7 threads
+Total average: 2.129643
+ 
+result for 8 threads
+Total average: 2.444707
+ 
+========== Round 14 test ==========
+result for 2 threads
+Total average: 0.801010
+ 
+result for 3 threads
+Total average: 0.977047
+ 
+result for 4 threads
+Total average: 1.370295
+ 
+result for 5 threads
+Total average: 1.655524
+ 
+result for 6 threads
+Total average: 1.958553
+ 
+result for 7 threads
+Total average: 2.240797
+ 
+result for 8 threads
+Total average: 2.271525
+ 
+========== Round 15 test ==========
+result for 2 threads
+Total average: 0.814910
+ 
+result for 3 threads
+Total average: 1.069300
+ 
+result for 4 threads
+Total average: 1.346675
+ 
+result for 5 threads
+Total average: 1.781360
+ 
+result for 6 threads
+Total average: 2.037797
+ 
+result for 7 threads
+Total average: 2.219726
+ 
+result for 8 threads
+Total average: 2.245335
+ 
+========== Round 16 test ==========
+result for 2 threads
+Total average: 0.833800
+ 
+result for 3 threads
+Total average: 1.044613
+ 
+result for 4 threads
+Total average: 1.354210
+ 
+result for 5 threads
+Total average: 1.678232
+ 
+result for 6 threads
+Total average: 1.981263
+ 
+result for 7 threads
+Total average: 2.314243
+ 
+result for 8 threads
+Total average: 2.226375
+ 
+========== Round 17 test ==========
+result for 2 threads
+Total average: 0.808720
+ 
+result for 3 threads
+Total average: 1.054900
+ 
+result for 4 threads
+Total average: 1.366100
+ 
+result for 5 threads
+Total average: 1.706024
+ 
+result for 6 threads
+Total average: 2.119907
+ 
+result for 7 threads
+Total average: 2.075566
+ 
+result for 8 threads
+Total average: 2.145290
+ 
+========== Round 18 test ==========
+result for 2 threads
+Total average: 0.826540
+ 
+result for 3 threads
+Total average: 1.053080
+ 
+result for 4 threads
+Total average: 1.387835
+ 
+result for 5 threads
+Total average: 1.817600
+ 
+result for 6 threads
+Total average: 2.132137
+ 
+result for 7 threads
+Total average: 2.125006
+ 
+result for 8 threads
+Total average: 1.981577
+ 
+========== Round 19 test ==========
+result for 2 threads
+Total average: 0.825040
+ 
+result for 3 threads
+Total average: 0.991260
+ 
+result for 4 threads
+Total average: 1.395165
+ 
+result for 5 threads
+Total average: 1.879816
+ 
+result for 6 threads
+Total average: 2.026130
+ 
+result for 7 threads
+Total average: 1.992640
+ 
+result for 8 threads
+Total average: 2.328123
+ 
+========== Round 20 test ==========
+result for 2 threads
+Total average: 0.833430
+ 
+result for 3 threads
+Total average: 0.982713
+ 
+result for 4 threads
+Total average: 1.384420
+ 
+result for 5 threads
+Total average: 1.667912
+ 
+result for 6 threads
+Total average: 2.084483
+ 
+result for 7 threads
+Total average: 2.019260
+ 
+result for 8 threads
+Total average: 2.398195
+ 

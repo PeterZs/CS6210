@@ -1,0 +1,1065 @@
+============= Round 1 ================
+========== mpi node number: 2 ===========
+======= openmp thread number: 2 ========
+process 0: 0.964286
+process 1: 0.964286
+ 
+======= openmp thread number: 3 ========
+process 0: 20740.642857
+process 1: 20731.750000
+ 
+======= openmp thread number: 4 ========
+process 0: 22932.169643
+process 1: 23008.375000
+ 
+======= openmp thread number: 5 ========
+process 1: 28992.592857
+process 0: 28718.621429
+ 
+======= openmp thread number: 6 ========
+process 0: 41478.523810
+process 1: 41116.232143
+ 
+======= openmp thread number: 7 ========
+process 0: 56837.724490
+process 1: 57000.229592
+ 
+======= openmp thread number: 8 ========
+process 1: 74458.500000
+process 0: 74640.334821
+ 
+======= openmp thread number: 9 ========
+process 0: 76306.134921
+process 1: 76339.853175
+ 
+======= openmp thread number: 10 ========
+process 0: 73645.500000
+process 1: 73020.771429
+ 
+======= openmp thread number: 11 ========
+process 0: 84629.256494
+process 1: 84914.597403
+ 
+======= openmp thread number: 12 ========
+process 0: 101592.333333
+process 1: 101785.568452
+ 
+========== mpi node number: 3 ===========
+======= openmp thread number: 2 ========
+process 0: 2.035714
+process 1: 2.035714
+process 2: 2.035714
+ 
+======= openmp thread number: 3 ========
+process 1: 22498.357143
+process 2: 22141.702381
+process 0: 22024.964286
+ 
+======= openmp thread number: 4 ========
+process 2: 26484.517857
+process 0: 26486.125000
+process 1: 26129.812500
+ 
+======= openmp thread number: 5 ========
+process 0: 36573.542857
+process 1: 37050.921429
+process 2: 37100.614286
+ 
+======= openmp thread number: 6 ========
+process 0: 56114.440476
+process 2: 56234.220238
+process 1: 56905.601190
+ 
+======= openmp thread number: 7 ========
+process 2: 67083.260204
+process 1: 69306.443878
+process 0: 68658.658163
+ 
+======= openmp thread number: 8 ========
+process 0: 96107.446429
+process 1: 94928.589286
+process 2: 95308.678571
+ 
+======= openmp thread number: 9 ========
+process 0: 87714.206349
+process 1: 85656.123016
+process 2: 87474.742063
+ 
+======= openmp thread number: 10 ========
+process 0: 104151.242857
+process 1: 103766.535714
+process 2: 104624.864286
+ 
+======= openmp thread number: 11 ========
+process 2: 96964.253247
+process 1: 98146.652597
+process 0: 98871.857143
+ 
+======= openmp thread number: 12 ========
+process 1: 118914.151786
+process 0: 118812.589286
+process 2: 120878.479167
+ 
+========== mpi node number: 4 ===========
+======= openmp thread number: 2 ========
+process 0: 2.571429
+process 1: 1.892857
+process 2: 2.571429
+process 3: 1.892857
+ 
+======= openmp thread number: 3 ========
+process 1: 21430.404762
+process 2: 21073.345238
+process 3: 20954.666667
+process 0: 20961.738095
+ 
+======= openmp thread number: 4 ========
+process 0: 21031.214286
+process 1: 21038.678571
+process 2: 21036.812500
+process 3: 21036.991071
+ 
+======= openmp thread number: 5 ========
+process 2: 35848.421429
+process 3: 35706.650000
+process 0: 35898.628571
+process 1: 36212.485714
+ 
+======= openmp thread number: 6 ========
+process 1: 49069.696429
+process 2: 48238.083333
+process 3: 48294.988095
+process 0: 48114.226190
+ 
+======= openmp thread number: 7 ========
+process 3: 85122.438776
+process 2: 85316.198980
+process 1: 84834.729592
+process 0: 86062.000000
+ 
+======= openmp thread number: 8 ========
+process 1: 106221.901786
+process 3: 104928.522321
+process 2: 106118.977679
+process 0: 106633.008929
+ 
+======= openmp thread number: 9 ========
+process 0: 100380.849206
+process 2: 100117.392857
+process 1: 98851.353175
+process 3: 98323.583333
+ 
+======= openmp thread number: 10 ========
+process 0: 92728.400000
+process 1: 92013.353571
+process 3: 91624.300000
+process 2: 92882.089286
+ 
+======= openmp thread number: 11 ========
+process 1: 109740.603896
+process 0: 109172.055195
+process 2: 109134.853896
+process 3: 110504.279221
+ 
+======= openmp thread number: 12 ========
+process 0: 117506.107143
+process 2: 118064.303571
+process 3: 117499.342262
+process 1: 118644.562500
+ 
+========== mpi node number: 5 ===========
+======= openmp thread number: 2 ========
+process 0: 3.714286
+process 1: 3.785714
+process 2: 3.678571
+process 3: 3.750000
+process 4: 4.428571
+ 
+======= openmp thread number: 3 ========
+process 0: 16406.892857
+process 1: 16068.226190
+process 2: 16058.773810
+process 3: 15958.952381
+process 4: 16059.023810
+ 
+======= openmp thread number: 4 ========
+process 0: 21744.901786
+process 1: 21442.812500
+process 2: 21802.160714
+process 3: 22155.285714
+process 4: 21783.776786
+ 
+======= openmp thread number: 5 ========
+process 0: 46207.064286
+process 4: 46210.864286
+process 2: 47278.335714
+process 1: 46112.728571
+process 3: 46487.164286
+ 
+======= openmp thread number: 6 ========
+process 0: 32548.517857
+process 1: 32508.636905
+process 2: 32549.321429
+process 3: 32478.863095
+process 4: 32508.619048
+ 
+======= openmp thread number: 7 ========
+process 0: 84841.831633
+process 1: 85898.994898
+process 3: 84298.801020
+process 4: 85787.632653
+process 2: 84817.168367
+ 
+======= openmp thread number: 8 ========
+process 0: 115595.901786
+process 2: 116094.241071
+process 1: 115119.660714
+process 3: 114931.263393
+process 4: 114803.495536
+ 
+======= openmp thread number: 9 ========
+process 3: 107962.246032
+process 1: 107096.190476
+process 0: 107893.535714
+process 4: 107691.960317
+process 2: 107619.019841
+ 
+======= openmp thread number: 10 ========
+process 4: 105373.650000
+process 2: 104731.467857
+process 3: 106267.125000
+process 0: 105638.264286
+process 1: 104999.925000
+ 
+======= openmp thread number: 11 ========
+process 4: 115861.564935
+process 0: 114745.512987
+process 3: 113717.532468
+process 2: 115566.834416
+process 1: 114545.220779
+ 
+======= openmp thread number: 12 ========
+process 3: 128734.985119
+process 2: 127499.437500
+process 0: 128487.583333
+process 4: 128079.880952
+process 1: 130328.264881
+ 
+========== mpi node number: 6 ===========
+======= openmp thread number: 2 ========
+process 3: 3.785714
+process 4: 3.107143
+process 5: 3.821429
+process 0: 3.071429
+process 1: 3.785714
+process 2: 3.107143
+ 
+======= openmp thread number: 3 ========
+process 5: 21429.154762
+process 0: 21793.297619
+process 2: 21426.059524
+process 3: 21429.142857
+process 4: 21429.523810
+process 1: 21783.416667
+ 
+======= openmp thread number: 4 ========
+process 0: 20014.294643
+process 1: 20355.285714
+process 2: 20000.000000
+process 3: 20353.446429
+process 4: 20000.000000
+process 5: 20265.812500
+ 
+======= openmp thread number: 5 ========
+process 0: 46594.750000
+process 2: 46764.164286
+process 4: 46558.585714
+process 1: 46929.292857
+process 5: 47082.964286
+process 3: 46998.257143
+ 
+======= openmp thread number: 6 ========
+process 4: 56758.761905
+process 5: 57363.041667
+process 2: 57523.279762
+process 3: 58178.410714
+process 0: 56847.488095
+process 1: 57886.529762
+ 
+======= openmp thread number: 7 ========
+process 4: 93082.576531
+process 2: 94118.357143
+process 5: 93348.469388
+process 0: 93840.806122
+process 3: 92675.061224
+process 1: 93613.147959
+ 
+======= openmp thread number: 8 ========
+process 5: 111581.071429
+process 2: 110848.709821
+process 3: 111336.500000
+process 4: 110347.357143
+process 0: 110996.183036
+process 1: 111129.357143
+ 
+======= openmp thread number: 9 ========
+process 3: 110051.579365
+process 1: 110297.265873
+process 5: 110158.420635
+process 2: 109539.694444
+process 0: 109647.912698
+process 4: 110427.793651
+ 
+======= openmp thread number: 10 ========
+process 2: 100178.553571
+process 1: 98715.157143
+process 0: 101278.550000
+process 4: 100892.796429
+process 5: 99069.985714
+process 3: 99268.585714
+ 
+======= openmp thread number: 11 ========
+process 0: 122954.240260
+process 4: 123944.652597
+process 1: 121882.389610
+process 3: 122108.944805
+process 5: 120877.035714
+process 2: 122498.233766
+ 
+======= openmp thread number: 12 ========
+process 0: 126521.220238
+process 4: 126382.785714
+process 5: 126428.532738
+process 1: 126234.955357
+process 2: 127351.758929
+process 3: 126310.532738
+ 
+========== mpi node number: 7 ===========
+======= openmp thread number: 2 ========
+process 0: 3.071429
+process 1: 3.857143
+process 2: 3.000000
+process 3: 3.767857
+process 4: 3.000000
+process 5: 3.785714
+process 6: 2.964286
+ 
+======= openmp thread number: 3 ========
+process 0: 26430.023810
+process 1: 26666.071429
+process 2: 26665.678571
+process 3: 26994.607143
+process 4: 26787.321429
+process 5: 26786.892857
+process 6: 27125.797619
+ 
+======= openmp thread number: 4 ========
+process 1: 28218.625000
+process 5: 28449.401786
+process 6: 28037.830357
+process 0: 28175.142857
+process 4: 28396.357143
+process 3: 28182.678571
+process 2: 27800.419643
+ 
+======= openmp thread number: 5 ========
+process 1: 44995.450000
+process 0: 45182.478571
+process 3: 45132.207143
+process 4: 45116.571429
+process 5: 45144.914286
+process 2: 45506.564286
+process 6: 45861.307143
+ 
+======= openmp thread number: 6 ========
+process 3: 64705.726190
+process 4: 64387.250000
+process 0: 64267.136905
+process 1: 64347.654762
+process 5: 64395.440476
+process 6: 64459.815476
+process 2: 64705.345238
+ 
+======= openmp thread number: 7 ========
+process 2: 95457.209184
+process 5: 96186.397959
+process 4: 94961.551020
+process 6: 95238.821429
+process 3: 96447.964286
+process 0: 94786.510204
+process 1: 95656.729592
+ 
+======= openmp thread number: 8 ========
+process 6: 112432.165179
+process 0: 112616.910714
+process 4: 111460.433036
+process 2: 112936.549107
+process 1: 111353.504464
+process 5: 113368.803571
+process 3: 114542.687500
+ 
+======= openmp thread number: 9 ========
+process 6: 109475.452381
+process 3: 108995.988095
+process 0: 108964.623016
+process 4: 110308.146825
+process 5: 109046.900794
+process 2: 110261.055556
+process 1: 110223.031746
+ 
+======= openmp thread number: 10 ========
+process 4: 100804.182143
+process 0: 101071.410714
+process 6: 101249.982143
+process 1: 101714.139286
+process 2: 101624.303571
+process 5: 101912.228571
+process 3: 102249.317857
+ 
+======= openmp thread number: 11 ========
+process 4: 126916.743506
+process 2: 125653.074675
+process 6: 126204.873377
+process 5: 127027.870130
+process 3: 126039.535714
+process 1: 126364.600649
+process 0: 126650.529221
+ 
+======= openmp thread number: 12 ========
+process 1: 128570.818452
+process 6: 126770.815476
+process 5: 128317.279762
+process 2: 127514.380952
+process 0: 127752.934524
+process 4: 127335.157738
+process 3: 129359.946429
+ 
+========== mpi node number: 8 ===========
+======= openmp thread number: 2 ========
+process 0: 3.571429
+process 1: 2.821429
+process 2: 3.571429
+process 3: 2.821429
+process 4: 3.571429
+process 5: 2.892857
+process 6: 3.642857
+process 7: 2.821429
+ 
+======= openmp thread number: 3 ========
+process 4: 27377.869048
+process 5: 27378.392857
+process 7: 27376.154762
+process 0: 27498.726190
+process 1: 27495.250000
+process 2: 27377.821429
+process 3: 27378.416667
+process 6: 27375.583333
+ 
+======= openmp thread number: 4 ========
+process 2: 19999.080357
+process 3: 19999.339286
+process 4: 19999.062500
+process 5: 19999.312500
+process 6: 19999.116071
+process 7: 19926.473214
+process 0: 19999.080357
+process 1: 19999.339286
+ 
+======= openmp thread number: 5 ========
+process 2: 48667.471429
+process 5: 48880.200000
+process 0: 49674.321429
+process 1: 48780.807143
+process 3: 48950.992857
+process 7: 49090.728571
+process 4: 48644.935714
+process 6: 48410.557143
+ 
+======= openmp thread number: 6 ========
+process 4: 56087.422619
+process 0: 55562.196429
+process 2: 55562.011905
+process 6: 55283.005952
+process 5: 55820.339286
+process 1: 55795.928571
+process 3: 56263.386905
+process 7: 55300.660714
+ 
+======= openmp thread number: 7 ========
+process 6: 91609.091837
+process 1: 90276.433673
+process 7: 90798.010204
+process 2: 92072.153061
+process 3: 90206.025510
+process 5: 89813.158163
+process 0: 91301.326531
+process 4: 91271.372449
+ 
+======= openmp thread number: 8 ========
+process 5: 113838.607143
+process 7: 113178.575893
+process 3: 114115.156250
+process 0: 113722.540179
+process 6: 113101.254464
+process 1: 113982.629464
+process 2: 113128.620536
+process 4: 113658.696429
+ 
+======= openmp thread number: 9 ========
+process 2: 111544.337302
+process 5: 110658.738095
+process 1: 111467.583333
+process 7: 109923.857143
+process 4: 111830.813492
+process 6: 110269.857143
+process 0: 111095.238095
+process 3: 110775.976190
+ 
+======= openmp thread number: 10 ========
+process 5: 95803.525000
+process 7: 95697.071429
+process 3: 95748.650000
+process 4: 95590.653571
+process 0: 95957.903571
+process 6: 95447.728571
+process 2: 96232.742857
+process 1: 95625.546429
+ 
+======= openmp thread number: 11 ========
+process 3: 120096.701299
+process 7: 118668.831169
+process 1: 118766.740260
+process 2: 120168.201299
+process 4: 119855.084416
+process 6: 120701.266234
+process 5: 119419.464286
+process 0: 120432.152597
+ 
+======= openmp thread number: 12 ========
+process 2: 129567.791667
+process 3: 128497.300595
+process 4: 128214.833333
+process 1: 129195.681548
+process 5: 128495.366071
+process 7: 129539.202381
+process 0: 129861.202381
+process 6: 129999.276786
+ 
+============= Round 2 ================
+========== mpi node number: 2 ===========
+======= openmp thread number: 2 ========
+process 0: 1.000000
+process 1: 1.410714
+ 
+======= openmp thread number: 3 ========
+process 0: 19847.416667
+process 1: 19976.095238
+ 
+======= openmp thread number: 4 ========
+process 0: 24498.526786
+process 1: 24583.776786
+ 
+======= openmp thread number: 5 ========
+process 0: 31922.492857
+process 1: 32249.514286
+ 
+======= openmp thread number: 6 ========
+process 1: 35671.136905
+process 0: 36012.660714
+ 
+======= openmp thread number: 7 ========
+process 0: 55186.836735
+process 1: 55253.744898
+ 
+======= openmp thread number: 8 ========
+process 1: 78511.549107
+process 0: 78269.357143
+ 
+======= openmp thread number: 9 ========
+process 0: 72360.476190
+process 1: 73234.734127
+ 
+======= openmp thread number: 10 ========
+process 1: 79193.121429
+process 0: 78271.692857
+ 
+======= openmp thread number: 11 ========
+process 1: 96136.298701
+process 0: 95565.051948
+ 
+======= openmp thread number: 12 ========
+process 1: 96339.148810
+process 0: 96368.592262
+ 
+========== mpi node number: 3 ===========
+======= openmp thread number: 2 ========
+process 0: 2.089286
+process 1: 2.178571
+process 2: 2.000000
+ 
+======= openmp thread number: 3 ========
+process 0: 19524.809524
+process 1: 19641.023810
+process 2: 19524.440476
+ 
+======= openmp thread number: 4 ========
+process 1: 25321.205357
+process 2: 25321.080357
+process 0: 25232.973214
+ 
+======= openmp thread number: 5 ========
+process 0: 35119.135714
+process 1: 35384.771429
+process 2: 34758.914286
+ 
+======= openmp thread number: 6 ========
+process 2: 45967.339286
+process 0: 46553.488095
+process 1: 46086.613095
+ 
+======= openmp thread number: 7 ========
+process 1: 75878.137755
+process 0: 76183.275510
+process 2: 76225.214286
+ 
+======= openmp thread number: 8 ========
+process 2: 100204.517857
+process 1: 98974.808036
+process 0: 100075.870536
+ 
+======= openmp thread number: 9 ========
+process 0: 95710.892857
+process 1: 95512.623016
+process 2: 96368.980159
+ 
+======= openmp thread number: 10 ========
+process 1: 94360.346429
+process 0: 94878.182143
+process 2: 94875.110714
+ 
+======= openmp thread number: 11 ========
+process 1: 110616.873377
+process 0: 110784.418831
+process 2: 111818.149351
+ 
+======= openmp thread number: 12 ========
+process 1: 121207.169643
+process 2: 120743.880952
+process 0: 120999.440476
+ 
+========== mpi node number: 4 ===========
+======= openmp thread number: 2 ========
+process 0: 2.000000
+process 1: 2.035714
+process 2: 2.000000
+process 3: 2.071429
+ 
+======= openmp thread number: 3 ========
+process 1: 25949.130952
+process 3: 26397.523810
+process 0: 26079.273810
+process 2: 25948.750000
+ 
+======= openmp thread number: 4 ========
+process 0: 26771.687500
+process 1: 27141.580357
+process 2: 27018.250000
+process 3: 27052.446429
+ 
+======= openmp thread number: 5 ========
+process 0: 38990.592857
+process 2: 38876.585714
+process 3: 39189.257143
+process 1: 39150.164286
+ 
+======= openmp thread number: 6 ========
+process 2: 50410.583333
+process 3: 49934.511905
+process 0: 50613.916667
+process 1: 50220.345238
+ 
+======= openmp thread number: 7 ========
+process 3: 72119.857143
+process 1: 71561.704082
+process 0: 70578.744898
+process 2: 71032.484694
+ 
+======= openmp thread number: 8 ========
+process 0: 99849.669643
+process 3: 98553.419643
+process 1: 99642.705357
+process 2: 98893.651786
+ 
+======= openmp thread number: 9 ========
+process 0: 92787.154762
+process 3: 94518.845238
+process 1: 93690.273810
+process 2: 92637.436508
+ 
+======= openmp thread number: 10 ========
+process 0: 95300.614286
+process 1: 95981.703571
+process 3: 95552.935714
+process 2: 96232.682143
+ 
+======= openmp thread number: 11 ========
+process 3: 108950.668831
+process 1: 111168.798701
+process 0: 110273.801948
+process 2: 108529.902597
+ 
+======= openmp thread number: 12 ========
+process 3: 117286.223214
+process 0: 117768.836310
+process 1: 116524.395833
+process 2: 117932.104167
+ 
+========== mpi node number: 5 ===========
+======= openmp thread number: 2 ========
+process 0: 4.678571
+process 1: 4.750000
+process 2: 5.446429
+process 3: 4.750000
+process 4: 4.785714
+ 
+======= openmp thread number: 3 ========
+process 0: 19514.250000
+process 1: 19633.166667
+process 2: 19633.226190
+process 3: 19633.702381
+process 4: 19516.416667
+ 
+======= openmp thread number: 4 ========
+process 3: 20623.508929
+process 4: 20623.544643
+process 0: 20712.723214
+process 1: 20712.785714
+process 2: 20713.169643
+ 
+======= openmp thread number: 5 ========
+process 3: 47139.142857
+process 2: 47383.342857
+process 1: 46784.821429
+process 4: 47003.628571
+process 0: 47033.085714
+ 
+======= openmp thread number: 6 ========
+process 0: 59993.255952
+process 1: 60798.119048
+process 2: 60144.113095
+process 4: 60139.458333
+process 3: 60915.535714
+ 
+======= openmp thread number: 7 ========
+process 2: 93454.750000
+process 0: 93723.020408
+process 1: 94280.173469
+process 4: 94281.117347
+process 3: 94963.071429
+ 
+======= openmp thread number: 8 ========
+process 1: 119902.035714
+process 3: 121334.611607
+process 0: 122991.535714
+process 2: 121848.455357
+process 4: 121654.459821
+ 
+======= openmp thread number: 9 ========
+process 1: 110801.170635
+process 2: 108972.218254
+process 0: 108320.702381
+process 4: 109153.730159
+process 3: 108714.964286
+ 
+======= openmp thread number: 10 ========
+process 2: 102514.425000
+process 3: 101071.425000
+process 1: 101534.928571
+process 0: 100215.346429
+process 4: 102014.885714
+ 
+======= openmp thread number: 11 ========
+process 1: 127257.431818
+process 0: 128086.642857
+process 3: 128132.500000
+process 2: 128172.016234
+process 4: 127938.659091
+ 
+======= openmp thread number: 12 ========
+process 2: 138214.830357
+process 4: 138019.764881
+process 1: 138869.029762
+process 3: 139314.877976
+process 0: 139404.735119
+ 
+========== mpi node number: 6 ===========
+======= openmp thread number: 2 ========
+process 0: 2.892857
+process 1: 4.250000
+process 2: 2.857143
+process 3: 4.285714
+process 4: 3.071429
+process 5: 4.285714
+ 
+======= openmp thread number: 3 ========
+process 0: 21782.964286
+process 1: 21663.523810
+process 2: 21663.952381
+process 3: 21665.750000
+process 4: 21665.880952
+process 5: 21665.738095
+ 
+======= openmp thread number: 4 ========
+process 5: 29641.857143
+process 1: 29640.830357
+process 2: 29175.008929
+process 3: 29639.133929
+process 4: 29175.008929
+process 0: 28914.589286
+ 
+======= openmp thread number: 5 ========
+process 0: 42462.614286
+process 4: 42662.592857
+process 2: 42339.878571
+process 5: 42095.635714
+process 1: 42658.114286
+process 3: 42340.342857
+ 
+======= openmp thread number: 6 ========
+process 2: 37591.172619
+process 3: 37566.386905
+process 5: 37649.547619
+process 1: 37606.244048
+process 0: 37409.416667
+process 4: 37499.928571
+ 
+======= openmp thread number: 7 ========
+process 1: 89637.413265
+process 5: 89239.663265
+process 3: 88986.887755
+process 4: 88267.091837
+process 2: 88724.040816
+process 0: 88144.770408
+ 
+======= openmp thread number: 8 ========
+process 4: 110586.959821
+process 1: 111522.482143
+process 0: 108826.866071
+process 2: 109156.325893
+process 3: 111566.946429
+process 5: 111468.477679
+ 
+======= openmp thread number: 9 ========
+process 4: 104872.988095
+process 5: 106620.468254
+process 2: 104672.678571
+process 0: 106356.341270
+process 3: 105396.007937
+process 1: 105184.345238
+ 
+======= openmp thread number: 10 ========
+process 2: 100857.050000
+process 5: 101465.007143
+process 3: 101696.378571
+process 4: 101233.292857
+process 1: 102911.417857
+process 0: 100964.289286
+ 
+======= openmp thread number: 11 ========
+process 5: 121882.175325
+process 3: 122386.285714
+process 4: 120470.133117
+process 1: 121216.529221
+process 0: 120259.853896
+process 2: 120505.860390
+ 
+======= openmp thread number: 12 ========
+process 5: 126443.339286
+process 4: 128466.714286
+process 2: 127797.068452
+process 1: 126740.502976
+process 3: 127619.017857
+process 0: 128658.127976
+ 
+========== mpi node number: 7 ===========
+======= openmp thread number: 2 ========
+process 0: 2.982143
+process 1: 3.678571
+process 2: 2.785714
+process 3: 3.607143
+process 4: 2.803571
+process 5: 3.571429
+process 6: 2.785714
+ 
+======= openmp thread number: 3 ========
+process 3: 25353.000000
+process 5: 24999.797619
+process 1: 25745.011905
+process 2: 24527.071429
+process 4: 25236.321429
+process 6: 25345.333333
+process 0: 25243.880952
+ 
+======= openmp thread number: 4 ========
+process 0: 27817.660714
+process 1: 27825.080357
+process 2: 27932.026786
+process 3: 27825.553571
+process 4: 27824.955357
+process 5: 27823.357143
+process 6: 27843.714286
+ 
+======= openmp thread number: 5 ========
+process 6: 50327.635714
+process 3: 51290.064286
+process 4: 50932.928571
+process 1: 50959.385714
+process 5: 50829.907143
+process 0: 51011.742857
+process 2: 51477.171429
+ 
+======= openmp thread number: 6 ========
+process 0: 62615.196429
+process 2: 62541.529762
+process 4: 62575.255952
+process 6: 62436.190476
+process 1: 62560.636905
+process 3: 62553.321429
+process 5: 62715.261905
+ 
+======= openmp thread number: 7 ========
+process 1: 90005.806122
+process 6: 88717.403061
+process 4: 89730.897959
+process 3: 89247.107143
+process 0: 89346.188776
+process 5: 89515.158163
+process 2: 91487.739796
+ 
+======= openmp thread number: 8 ========
+process 0: 113612.401786
+process 2: 113141.424107
+process 4: 113520.383929
+process 6: 115440.964286
+process 3: 114812.040179
+process 1: 115187.486607
+process 5: 116278.803571
+ 
+======= openmp thread number: 9 ========
+process 0: 121218.150794
+process 1: 121649.956349
+process 6: 120124.769841
+process 2: 120231.634921
+process 4: 121117.297619
+process 3: 120637.964286
+process 5: 121160.123016
+ 
+======= openmp thread number: 10 ========
+process 1: 106250.535714
+process 2: 105446.403571
+process 6: 104439.250000
+process 3: 105820.739286
+process 0: 105524.571429
+process 4: 105642.157143
+process 5: 105982.089286
+ 
+======= openmp thread number: 11 ========
+process 3: 119901.256494
+process 5: 120550.642857
+process 0: 121267.071429
+process 1: 119948.649351
+process 4: 118699.425325
+process 2: 119724.646104
+process 6: 122247.233766
+ 
+======= openmp thread number: 12 ========
+process 3: 151189.877976
+process 6: 151005.770833
+process 2: 151134.437500
+process 0: 150937.488095
+process 4: 152024.369048
+process 1: 152276.252976
+process 5: 153364.363095
+ 
+========== mpi node number: 8 ===========
+======= openmp thread number: 2 ========
+process 3: 4.071429
+process 4: 3.285714
+process 5: 4.107143
+process 6: 3.357143
+process 7: 4.178571
+process 0: 3.285714
+process 1: 4.142857
+process 2: 3.321429
+ 
+======= openmp thread number: 3 ========
+process 3: 23567.178571
+process 4: 22859.845238
+process 5: 22860.500000
+process 6: 22857.678571
+process 7: 23211.511905
+process 0: 22748.357143
+process 1: 22858.309524
+process 2: 22859.880952
+ 
+======= openmp thread number: 4 ========
+process 3: 36754.937500
+process 5: 36571.857143
+process 7: 36594.866071
+process 1: 36661.517857
+process 0: 36504.955357
+process 2: 36428.848214
+process 4: 36369.553571
+process 6: 36189.089286
+ 
+======= openmp thread number: 5 ========
+process 4: 47153.721429
+process 6: 47154.028571
+process 5: 46509.442857
+process 2: 46557.300000
+process 3: 46776.400000
+process 7: 47235.785714
+process 0: 46743.885714
+process 1: 46415.007143
+ 
+======= openmp thread number: 6 ========
+process 2: 64466.434524
+process 4: 64711.107143
+process 0: 64868.660714
+process 3: 63616.398810
+process 6: 64531.636905
+process 1: 63970.982143
+process 7: 63138.011905
+process 5: 63678.559524
+ 
+======= openmp thread number: 7 ========
+process 5: 97708.479592
+process 6: 97580.642857
+process 7: 96753.887755
+process 1: 97255.974490
+process 0: 96581.428571
+process 3: 96561.234694
+process 2: 96021.387755
+process 4: 96444.816327
+ 
+======= openmp thread number: 8 ========
+process 3: 112437.098214
+process 4: 111120.517857
+process 6: 111625.491071
+process 2: 111652.607143
+process 7: 111745.504464
+process 0: 110958.446429
+process 5: 109732.035714
+process 1: 110883.464286
+ 
+======= openmp thread number: 9 ========
+process 6: 104390.353175
+process 2: 104122.261905
+process 4: 104076.214286
+process 7: 103731.634921
+process 3: 104307.023810
+process 0: 103534.960317
+process 5: 104858.619048
+process 1: 104473.488095
+ 
+======= openmp thread number: 10 ========

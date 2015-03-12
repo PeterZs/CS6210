@@ -1,0 +1,1687 @@
+============== MPI test_tournament Test =============
+========== Round 1 test ==============
+result for 2 nodes
+average time = 1.194930 
+average time = 1.194830 
+ 
+result for 3 nodes
+average time = 2.062980 
+average time = 2.063140 
+average time = 2.062970 
+ 
+result for 4 nodes
+average time = 3.156940 
+average time = 3.155620 
+average time = 3.156550 
+average time = 3.156530 
+ 
+result for 5 nodes
+average time = 3.786710 
+average time = 3.786640 
+average time = 3.785410 
+average time = 3.785880 
+average time = 3.786830 
+ 
+result for 6 nodes
+average time = 3.837000 
+average time = 3.836350 
+average time = 3.837000 
+average time = 3.837890 
+average time = 3.836830 
+average time = 3.838410 
+ 
+result for 7 nodes
+average time = 4.829250 
+average time = 4.828760 
+average time = 4.826970 
+average time = 4.828630 
+average time = 4.829230 
+average time = 4.827980 
+average time = 4.828360 
+ 
+result for 8 nodes
+average time = 5.669000 
+average time = 5.668340 
+average time = 5.670300 
+average time = 5.669670 
+average time = 5.670050 
+average time = 5.667120 
+average time = 5.670320 
+average time = 5.668250 
+ 
+========== Round 2 test ==============
+result for 2 nodes
+average time = 1.225980 
+average time = 1.225980 
+ 
+result for 3 nodes
+average time = 2.088010 
+average time = 2.087810 
+average time = 2.087840 
+ 
+result for 4 nodes
+average time = 3.141300 
+average time = 3.140840 
+average time = 3.140470 
+average time = 3.140330 
+ 
+result for 5 nodes
+average time = 3.838820 
+average time = 3.838990 
+average time = 3.839170 
+average time = 3.837850 
+average time = 3.838430 
+ 
+result for 6 nodes
+average time = 3.917490 
+average time = 3.916740 
+average time = 3.916840 
+average time = 3.917950 
+average time = 3.916670 
+average time = 3.917960 
+ 
+result for 7 nodes
+============== MPI test_tournament Test =============
+========== Round 1 test ==============
+result for 2 nodes
+average time = 1.208070 
+average time = 1.208020 
+ 
+result for 3 nodes
+average time = 2.129110 
+average time = 2.129010 
+average time = 2.128930 
+ 
+result for 4 nodes
+average time = 3.126140 
+average time = 3.126100 
+average time = 3.126280 
+average time = 3.125200 
+ 
+result for 5 nodes
+average time = 3.823700 
+average time = 3.823690 
+average time = 3.823700 
+average time = 3.823670 
+average time = 3.823480 
+ 
+result for 6 nodes
+average time = 3.990950 
+average time = 3.990680 
+average time = 3.990920 
+average time = 3.990400 
+average time = 3.990270 
+average time = 3.989050 
+ 
+result for 7 nodes
+average time = 4.775700 
+average time = 4.776090 
+average time = 4.775960 
+average time = 4.775930 
+average time = 4.775920 
+average time = 4.776080 
+average time = 4.775740 
+ 
+result for 8 nodes
+average time = 5.616520 
+average time = 5.616540 
+average time = 5.616540 
+average time = 5.616000 
+average time = 5.616050 
+average time = 5.616550 
+average time = 5.614450 
+average time = 5.615680 
+ 
+result for 9 nodes
+average time = 6.274760 
+average time = 6.274630 
+average time = 6.274710 
+average time = 6.274450 
+average time = 6.273930 
+average time = 6.273340 
+average time = 6.272030 
+average time = 6.273600 
+average time = 6.273460 
+ 
+result for 10 nodes
+average time = 6.205100 
+average time = 6.204680 
+average time = 6.204550 
+average time = 6.206120 
+average time = 6.206020 
+average time = 6.206130 
+average time = 6.205590 
+average time = 6.205700 
+average time = 6.205340 
+average time = 6.203650 
+ 
+result for 11 nodes
+average time = 6.374450 
+average time = 6.374410 
+average time = 6.374430 
+average time = 6.374300 
+average time = 6.373880 
+average time = 6.372160 
+average time = 6.373330 
+average time = 6.373160 
+average time = 6.374440 
+average time = 6.372880 
+average time = 6.372630 
+ 
+result for 12 nodes
+average time = 6.457250 
+average time = 6.456830 
+average time = 6.456670 
+average time = 6.456550 
+average time = 6.456210 
+average time = 6.455880 
+average time = 6.455660 
+average time = 6.455500 
+average time = 6.457570 
+average time = 6.458270 
+average time = 6.458090 
+average time = 6.458290 
+ 
+========== Round 2 test ==============
+result for 2 nodes
+average time = 1.201230 
+average time = 1.201170 
+ 
+result for 3 nodes
+average time = 2.065540 
+average time = 2.065660 
+average time = 2.065540 
+ 
+result for 4 nodes
+average time = 3.132530 
+average time = 3.133630 
+average time = 3.133670 
+average time = 3.133640 
+ 
+result for 5 nodes
+average time = 3.806090 
+average time = 3.805670 
+average time = 3.806100 
+average time = 3.805460 
+average time = 3.805350 
+ 
+result for 6 nodes
+average time = 3.957520 
+average time = 3.956850 
+average time = 3.956850 
+average time = 3.956370 
+average time = 3.957380 
+average time = 3.955370 
+ 
+result for 7 nodes
+average time = 4.793100 
+average time = 4.792610 
+average time = 4.792050 
+average time = 4.791910 
+average time = 4.793100 
+average time = 4.791630 
+average time = 4.791110 
+ 
+result for 8 nodes
+average time = 5.626790 
+average time = 5.625840 
+average time = 5.625980 
+average time = 5.625800 
+average time = 5.626790 
+average time = 5.625850 
+average time = 5.624900 
+average time = 5.625500 
+ 
+result for 9 nodes
+average time = 6.189780 
+average time = 6.189670 
+average time = 6.189750 
+average time = 6.189510 
+average time = 6.189440 
+average time = 6.189260 
+average time = 6.188560 
+average time = 6.188650 
+average time = 6.188650 
+ 
+result for 10 nodes
+average time = 6.245790 
+average time = 6.245570 
+average time = 6.245360 
+average time = 6.245010 
+average time = 6.244860 
+average time = 6.246090 
+average time = 6.243910 
+average time = 6.244210 
+average time = 6.245910 
+average time = 6.243110 
+ 
+result for 11 nodes
+average time = 6.302500 
+average time = 6.305150 
+average time = 6.305190 
+average time = 6.305140 
+average time = 6.305190 
+average time = 6.304850 
+average time = 6.302470 
+average time = 6.303050 
+average time = 6.304180 
+average time = 6.303990 
+average time = 6.303840 
+ 
+result for 12 nodes
+average time = 6.462750 
+average time = 6.462790 
+average time = 6.462750 
+average time = 6.462650 
+average time = 6.462470 
+average time = 6.461990 
+average time = 6.459930 
+average time = 6.461570 
+average time = 6.460930 
+average time = 6.462790 
+average time = 6.461210 
+average time = 6.460790 
+ 
+========== Round 3 test ==============
+result for 2 nodes
+average time = 1.199430 
+average time = 1.199430 
+ 
+result for 3 nodes
+average time = 2.080720 
+average time = 2.080790 
+average time = 2.080710 
+ 
+result for 4 nodes
+average time = 3.095010 
+average time = 3.095200 
+average time = 3.095190 
+average time = 3.094300 
+ 
+result for 5 nodes
+average time = 3.820280 
+average time = 3.821270 
+average time = 3.821150 
+average time = 3.821240 
+average time = 3.821250 
+ 
+result for 6 nodes
+average time = 3.927280 
+average time = 3.928550 
+average time = 3.928050 
+average time = 3.928900 
+average time = 3.928750 
+average time = 3.928890 
+ 
+result for 7 nodes
+average time = 4.887360 
+average time = 4.888050 
+average time = 4.887110 
+average time = 4.886790 
+average time = 4.888060 
+average time = 4.887670 
+average time = 4.885530 
+ 
+result for 8 nodes
+average time = 5.597630 
+average time = 5.597240 
+average time = 5.597290 
+average time = 5.597050 
+average time = 5.597640 
+average time = 5.596890 
+average time = 5.596130 
+average time = 5.596440 
+ 
+result for 9 nodes
+average time = 6.204050 
+average time = 6.203060 
+average time = 6.204100 
+average time = 6.203880 
+average time = 6.202220 
+average time = 6.204730 
+average time = 6.202200 
+average time = 6.204680 
+average time = 6.204320 
+ 
+result for 10 nodes
+average time = 6.182030 
+average time = 6.181830 
+average time = 6.181600 
+average time = 6.181400 
+average time = 6.179710 
+average time = 6.182320 
+average time = 6.180530 
+average time = 6.180530 
+average time = 6.182300 
+average time = 6.181830 
+ 
+result for 11 nodes
+average time = 6.323040 
+average time = 6.322860 
+average time = 6.323040 
+average time = 6.322830 
+average time = 6.322700 
+average time = 6.322220 
+average time = 6.320500 
+average time = 6.322160 
+average time = 6.321810 
+average time = 6.321610 
+average time = 6.321200 
+ 
+result for 12 nodes
+average time = 6.481100 
+average time = 6.483050 
+average time = 6.482780 
+average time = 6.482450 
+average time = 6.482310 
+average time = 6.481900 
+average time = 6.481830 
+average time = 6.481640 
+average time = 6.479540 
+average time = 6.483050 
+average time = 6.483100 
+average time = 6.480790 
+ 
+========== Round 4 test ==============
+result for 2 nodes
+average time = 1.210030 
+average time = 1.210020 
+ 
+result for 3 nodes
+average time = 2.080430 
+average time = 2.080510 
+average time = 2.080420 
+ 
+result for 4 nodes
+average time = 3.117440 
+average time = 3.118610 
+average time = 3.118750 
+average time = 3.118650 
+ 
+result for 5 nodes
+average time = 3.902400 
+average time = 3.901190 
+average time = 3.902420 
+average time = 3.902120 
+average time = 3.902200 
+ 
+result for 6 nodes
+average time = 3.891500 
+average time = 3.890370 
+average time = 3.890480 
+average time = 3.890280 
+average time = 3.891490 
+average time = 3.889370 
+ 
+result for 7 nodes
+average time = 4.854120 
+average time = 4.856350 
+average time = 4.856520 
+average time = 4.856160 
+average time = 4.856940 
+average time = 4.855730 
+average time = 4.855830 
+ 
+result for 8 nodes
+average time = 5.626750 
+average time = 5.626230 
+average time = 5.626330 
+average time = 5.626230 
+average time = 5.626780 
+average time = 5.625580 
+average time = 5.624170 
+average time = 5.625480 
+ 
+result for 9 nodes
+average time = 6.194020 
+average time = 6.194060 
+average time = 6.194020 
+average time = 6.193720 
+average time = 6.193580 
+average time = 6.194070 
+average time = 6.191990 
+average time = 6.193110 
+average time = 6.192550 
+ 
+result for 10 nodes
+average time = 6.225920 
+average time = 6.225530 
+average time = 6.225750 
+average time = 6.225330 
+average time = 6.223110 
+average time = 6.224490 
+average time = 6.226000 
+average time = 6.224600 
+average time = 6.224440 
+average time = 6.224110 
+ 
+result for 11 nodes
+average time = 6.334520 
+average time = 6.334410 
+average time = 6.334360 
+average time = 6.334310 
+average time = 6.334390 
+average time = 6.334160 
+average time = 6.334130 
+average time = 6.334000 
+average time = 6.334510 
+average time = 6.333830 
+average time = 6.333690 
+ 
+result for 12 nodes
+average time = 6.465410 
+average time = 6.462890 
+average time = 6.463030 
+average time = 6.465210 
+average time = 6.465030 
+average time = 6.462530 
+average time = 6.464390 
+average time = 6.464160 
+average time = 6.464000 
+average time = 6.463720 
+average time = 6.463260 
+average time = 6.465210 
+ 
+========== Round 5 test ==============
+result for 2 nodes
+average time = 1.183770 
+average time = 1.183770 
+ 
+result for 3 nodes
+average time = 2.084240 
+average time = 2.084500 
+average time = 2.084240 
+ 
+result for 4 nodes
+average time = 3.153470 
+average time = 3.152840 
+average time = 3.153890 
+average time = 3.153260 
+ 
+result for 5 nodes
+average time = 3.784720 
+average time = 3.785440 
+average time = 3.785440 
+average time = 3.785520 
+average time = 3.784870 
+ 
+result for 6 nodes
+average time = 3.866700 
+average time = 3.867650 
+average time = 3.868340 
+average time = 3.868320 
+average time = 3.868320 
+average time = 3.866790 
+ 
+result for 7 nodes
+average time = 4.838110 
+average time = 4.837140 
+average time = 4.839210 
+average time = 4.838620 
+average time = 4.838640 
+average time = 4.839540 
+average time = 4.838490 
+ 
+result for 8 nodes
+average time = 5.606920 
+average time = 5.606960 
+average time = 5.606920 
+average time = 5.605640 
+average time = 5.606350 
+average time = 5.607110 
+average time = 5.606180 
+average time = 5.606010 
+ 
+result for 9 nodes
+average time = 6.280200 
+average time = 6.281780 
+average time = 6.282000 
+average time = 6.281690 
+average time = 6.281070 
+average time = 6.281230 
+average time = 6.282400 
+average time = 6.281040 
+average time = 6.280590 
+ 
+result for 10 nodes
+average time = 6.222230 
+average time = 6.221890 
+average time = 6.221800 
+average time = 6.221330 
+average time = 6.221280 
+average time = 6.222320 
+average time = 6.219490 
+average time = 6.220690 
+average time = 6.222230 
+average time = 6.222220 
+ 
+result for 11 nodes
+average time = 6.338610 
+average time = 6.336220 
+average time = 6.338190 
+average time = 6.338000 
+average time = 6.337680 
+average time = 6.339160 
+average time = 6.337360 
+average time = 6.336870 
+average time = 6.339170 
+average time = 6.338580 
+average time = 6.338940 
+ 
+result for 12 nodes
+average time = 6.455050 
+average time = 6.454810 
+average time = 6.454460 
+average time = 6.457910 
+average time = 6.457820 
+average time = 6.457890 
+average time = 6.456390 
+average time = 6.454350 
+average time = 6.457460 
+average time = 6.455770 
+average time = 6.455740 
+average time = 6.455450 
+ 
+========== Round 6 test ==============
+result for 2 nodes
+average time = 1.182010 
+average time = 1.182010 
+ 
+result for 3 nodes
+average time = 2.065080 
+average time = 2.065180 
+average time = 2.065070 
+ 
+result for 4 nodes
+average time = 3.135890 
+average time = 3.134980 
+average time = 3.135890 
+average time = 3.135980 
+ 
+result for 5 nodes
+average time = 3.828860 
+average time = 3.827360 
+average time = 3.828860 
+average time = 3.828380 
+average time = 3.828800 
+ 
+result for 6 nodes
+average time = 3.876860 
+average time = 3.877100 
+average time = 3.875640 
+average time = 3.877370 
+average time = 3.877380 
+average time = 3.877300 
+ 
+result for 7 nodes
+average time = 4.818030 
+average time = 4.818800 
+average time = 4.818270 
+average time = 4.818860 
+average time = 4.818060 
+average time = 4.816830 
+average time = 4.818130 
+ 
+result for 8 nodes
+average time = 5.568910 
+average time = 5.569050 
+average time = 5.568910 
+average time = 5.568360 
+average time = 5.568290 
+average time = 5.569060 
+average time = 5.568200 
+average time = 5.566930 
+ 
+result for 9 nodes
+average time = 6.134750 
+average time = 6.135820 
+average time = 6.135610 
+average time = 6.135380 
+average time = 6.135140 
+average time = 6.135850 
+average time = 6.135990 
+average time = 6.133370 
+average time = 6.134410 
+ 
+result for 10 nodes
+average time = 6.165840 
+average time = 6.164450 
+average time = 6.164110 
+average time = 6.163810 
+average time = 6.165600 
+average time = 6.164540 
+average time = 6.165030 
+average time = 6.164550 
+average time = 6.164550 
+average time = 6.164550 
+ 
+result for 11 nodes
+average time = 6.384290 
+average time = 6.383960 
+average time = 6.385020 
+average time = 6.383620 
+average time = 6.383260 
+average time = 6.383090 
+average time = 6.384880 
+average time = 6.384990 
+average time = 6.384970 
+average time = 6.384780 
+average time = 6.382270 
+ 
+result for 12 nodes
+average time = 6.468550 
+average time = 6.468550 
+average time = 6.468550 
+average time = 6.468340 
+average time = 6.468120 
+average time = 6.467800 
+average time = 6.467610 
+average time = 6.467250 
+average time = 6.467030 
+average time = 6.468570 
+average time = 6.465600 
+average time = 6.466280 
+ 
+========== Round 7 test ==============
+result for 2 nodes
+average time = 1.213390 
+average time = 1.213390 
+ 
+result for 3 nodes
+average time = 2.091760 
+average time = 2.091910 
+average time = 2.091760 
+ 
+result for 4 nodes
+average time = 3.133480 
+average time = 3.133960 
+average time = 3.133470 
+average time = 3.132760 
+ 
+result for 5 nodes
+average time = 3.795630 
+average time = 3.796490 
+average time = 3.795560 
+average time = 3.794950 
+average time = 3.795630 
+ 
+result for 6 nodes
+average time = 3.914250 
+average time = 3.914860 
+average time = 3.912940 
+average time = 3.914860 
+average time = 3.914860 
+average time = 3.914580 
+ 
+result for 7 nodes
+average time = 4.848970 
+average time = 4.850230 
+average time = 4.848740 
+average time = 4.849060 
+average time = 4.847890 
+average time = 4.849210 
+average time = 4.849540 
+ 
+result for 8 nodes
+average time = 5.763770 
+average time = 5.762220 
+average time = 5.763300 
+average time = 5.761620 
+average time = 5.762320 
+average time = 5.761950 
+average time = 5.762010 
+average time = 5.761570 
+ 
+result for 9 nodes
+average time = 6.211670 
+average time = 6.210680 
+average time = 6.211910 
+average time = 6.210020 
+average time = 6.210210 
+average time = 6.212430 
+average time = 6.212360 
+average time = 6.212410 
+average time = 6.212360 
+ 
+result for 10 nodes
+average time = 6.195150 
+average time = 6.194800 
+average time = 6.194710 
+average time = 6.194360 
+average time = 6.194210 
+average time = 6.195390 
+average time = 6.192160 
+average time = 6.193670 
+average time = 6.195170 
+average time = 6.195380 
+ 
+result for 11 nodes
+average time = 6.358060 
+average time = 6.357570 
+average time = 6.357610 
+average time = 6.357630 
+average time = 6.357530 
+average time = 6.357190 
+average time = 6.357020 
+average time = 6.356810 
+average time = 6.358050 
+average time = 6.356400 
+average time = 6.355760 
+ 
+result for 12 nodes
+average time = 6.573880 
+average time = 6.573650 
+average time = 6.573360 
+average time = 6.576470 
+average time = 6.576370 
+average time = 6.576360 
+average time = 6.573110 
+average time = 6.575990 
+average time = 6.576100 
+average time = 6.574650 
+average time = 6.574370 
+average time = 6.573930 
+ 
+========== Round 8 test ==============
+result for 2 nodes
+average time = 1.167510 
+average time = 1.167510 
+ 
+result for 3 nodes
+average time = 2.080300 
+average time = 2.080310 
+average time = 2.080100 
+ 
+result for 4 nodes
+average time = 3.125310 
+average time = 3.126350 
+average time = 3.126820 
+average time = 3.126350 
+ 
+result for 5 nodes
+average time = 3.821750 
+average time = 3.821420 
+average time = 3.821960 
+average time = 3.820270 
+average time = 3.821470 
+ 
+result for 6 nodes
+average time = 3.898700 
+average time = 3.897920 
+average time = 3.897990 
+average time = 3.897930 
+average time = 3.898700 
+average time = 3.897920 
+ 
+result for 7 nodes
+average time = 4.796220 
+average time = 4.793700 
+average time = 4.795660 
+average time = 4.794870 
+average time = 4.796210 
+average time = 4.794920 
+average time = 4.794910 
+ 
+result for 8 nodes
+average time = 5.570030 
+average time = 5.570370 
+average time = 5.568720 
+average time = 5.569900 
+average time = 5.569760 
+average time = 5.570380 
+average time = 5.569560 
+average time = 5.568910 
+ 
+result for 9 nodes
+average time = 6.201930 
+average time = 6.202710 
+average time = 6.203820 
+average time = 6.204300 
+average time = 6.203820 
+average time = 6.203650 
+average time = 6.203570 
+average time = 6.204300 
+average time = 6.203360 
+ 
+result for 10 nodes
+average time = 6.204890 
+average time = 6.204440 
+average time = 6.204310 
+average time = 6.204170 
+average time = 6.203890 
+average time = 6.203610 
+average time = 6.206110 
+average time = 6.203510 
+average time = 6.206090 
+average time = 6.205820 
+ 
+result for 11 nodes
+average time = 6.372340 
+average time = 6.371930 
+average time = 6.372340 
+average time = 6.371970 
+average time = 6.371920 
+average time = 6.371330 
+average time = 6.371440 
+average time = 6.371170 
+average time = 6.369510 
+average time = 6.370790 
+average time = 6.370300 
+ 
+result for 12 nodes
+average time = 6.496430 
+average time = 6.496160 
+average time = 6.494380 
+average time = 6.497480 
+average time = 6.495650 
+average time = 6.495410 
+average time = 6.497250 
+average time = 6.497470 
+average time = 6.497300 
+average time = 6.496960 
+average time = 6.496890 
+average time = 6.496470 
+ 
+========== Round 9 test ==============
+result for 2 nodes
+average time = 1.199240 
+average time = 1.199250 
+ 
+result for 3 nodes
+average time = 2.071000 
+average time = 2.071060 
+average time = 2.070990 
+ 
+result for 4 nodes
+average time = 3.132650 
+average time = 3.133700 
+average time = 3.134160 
+average time = 3.133430 
+ 
+result for 5 nodes
+average time = 3.852990 
+average time = 3.851830 
+average time = 3.853020 
+average time = 3.852180 
+average time = 3.852190 
+ 
+result for 6 nodes
+average time = 3.932480 
+average time = 3.932600 
+average time = 3.932560 
+average time = 3.932550 
+average time = 3.931600 
+average time = 3.932520 
+ 
+result for 7 nodes
+average time = 4.896410 
+average time = 4.896100 
+average time = 4.896080 
+average time = 4.894880 
+average time = 4.896420 
+average time = 4.894610 
+average time = 4.894030 
+ 
+result for 8 nodes
+average time = 5.602320 
+average time = 5.601340 
+average time = 5.602330 
+average time = 5.601710 
+average time = 5.600870 
+average time = 5.599980 
+average time = 5.600470 
+average time = 5.600320 
+ 
+result for 9 nodes
+average time = 6.181310 
+average time = 6.179150 
+average time = 6.180820 
+average time = 6.180480 
+average time = 6.181730 
+average time = 6.180090 
+average time = 6.179680 
+average time = 6.181720 
+average time = 6.181350 
+ 
+result for 10 nodes
+average time = 6.317910 
+average time = 6.314970 
+average time = 6.317060 
+average time = 6.316740 
+average time = 6.317920 
+average time = 6.316740 
+average time = 6.316240 
+average time = 6.316130 
+average time = 6.317860 
+average time = 6.317140 
+ 
+result for 11 nodes
+average time = 6.353220 
+average time = 6.353260 
+average time = 6.351520 
+average time = 6.352860 
+average time = 6.352670 
+average time = 6.352410 
+average time = 6.354090 
+average time = 6.353980 
+average time = 6.354030 
+average time = 6.353710 
+average time = 6.353650 
+ 
+result for 12 nodes
+average time = 6.461220 
+average time = 6.460920 
+average time = 6.463180 
+average time = 6.462980 
+average time = 6.462810 
+average time = 6.462730 
+average time = 6.462390 
+average time = 6.462190 
+average time = 6.461980 
+average time = 6.460020 
+average time = 6.463180 
+average time = 6.461450 
+ 
+========== Round 10 test ==============
+result for 2 nodes
+average time = 1.186590 
+average time = 1.186590 
+ 
+result for 3 nodes
+average time = 2.083960 
+average time = 2.084190 
+average time = 2.083950 
+ 
+result for 4 nodes
+average time = 3.159860 
+average time = 3.159850 
+average time = 3.159260 
+average time = 3.159860 
+ 
+result for 5 nodes
+average time = 3.802610 
+average time = 3.802470 
+average time = 3.802880 
+average time = 3.801950 
+average time = 3.802190 
+ 
+result for 6 nodes
+average time = 3.903810 
+average time = 3.902280 
+average time = 3.903820 
+average time = 3.904040 
+average time = 3.903580 
+average time = 3.903380 
+ 
+result for 7 nodes
+average time = 4.960710 
+average time = 4.962340 
+average time = 4.962210 
+average time = 4.962170 
+average time = 4.962870 
+average time = 4.962000 
+average time = 4.961820 
+ 
+result for 8 nodes
+average time = 5.713840 
+average time = 5.713490 
+average time = 5.713990 
+average time = 5.715190 
+average time = 5.714650 
+average time = 5.715180 
+average time = 5.715190 
+average time = 5.715200 
+ 
+result for 9 nodes
+average time = 6.179670 
+average time = 6.183670 
+average time = 6.183780 
+average time = 6.183660 
+average time = 6.183380 
+average time = 6.183090 
+average time = 6.184230 
+average time = 6.181700 
+average time = 6.182510 
+ 
+result for 10 nodes
+average time = 6.179410 
+average time = 6.179670 
+average time = 6.181190 
+average time = 6.181400 
+average time = 6.181230 
+average time = 6.181010 
+average time = 6.180790 
+average time = 6.180440 
+average time = 6.180250 
+average time = 6.181410 
+ 
+result for 11 nodes
+average time = 6.301900 
+average time = 6.301930 
+average time = 6.301580 
+average time = 6.301300 
+average time = 6.301110 
+average time = 6.299400 
+average time = 6.302100 
+average time = 6.300550 
+average time = 6.300310 
+average time = 6.302210 
+average time = 6.301900 
+ 
+result for 12 nodes
+average time = 6.431400 
+average time = 6.430700 
+average time = 6.430620 
+average time = 6.430300 
+average time = 6.430200 
+average time = 6.428270 
+average time = 6.431440 
+average time = 6.429680 
+average time = 6.429020 
+average time = 6.429000 
+average time = 6.431440 
+average time = 6.430710 
+ 
+============== MPI test_dissemination Test =============
+========== Round 1 test ==============
+result for 2 nodes
+average time = 0.420000 
+average time = 0.420000 
+ 
+result for 3 nodes
+average time = 1.215420 
+average time = 1.215420 
+average time = 1.215420 
+ 
+result for 4 nodes
+average time = 1.079960 
+average time = 1.078900 
+average time = 1.080070 
+average time = 1.079830 
+ 
+result for 5 nodes
+average time = 1.786660 
+average time = 1.785280 
+average time = 1.786690 
+average time = 1.786710 
+average time = 1.785260 
+ 
+result for 6 nodes
+average time = 1.720130 
+average time = 1.721380 
+average time = 1.720130 
+average time = 1.720420 
+average time = 1.719170 
+average time = 1.720890 
+ 
+result for 7 nodes
+average time = 1.867520 
+average time = 1.867560 
+average time = 1.867250 
+average time = 1.866530 
+average time = 1.865600 
+average time = 1.867830 
+average time = 1.867240 
+ 
+result for 8 nodes
+average time = 1.634820 
+average time = 1.632820 
+average time = 1.634870 
+average time = 1.634290 
+average time = 1.634250 
+average time = 1.634840 
+average time = 1.634080 
+average time = 1.633870 
+ 
+result for 9 nodes
+average time = 2.653100 
+average time = 2.652170 
+average time = 2.652380 
+average time = 2.652020 
+average time = 2.651900 
+average time = 2.651110 
+average time = 2.653380 
+average time = 2.651240 
+average time = 2.653760 
+ 
+result for 10 nodes
+average time = 2.348480 
+average time = 2.348310 
+average time = 2.348260 
+average time = 2.347710 
+average time = 2.347560 
+average time = 2.346230 
+average time = 2.347400 
+average time = 2.347240 
+average time = 2.348490 
+average time = 2.348340 
+ 
+result for 11 nodes
+average time = 2.594590 
+average time = 2.594570 
+average time = 2.594280 
+average time = 2.594170 
+average time = 2.593870 
+average time = 2.592250 
+average time = 2.593540 
+average time = 2.593310 
+average time = 2.595060 
+average time = 2.594630 
+average time = 2.595050 
+ 
+result for 12 nodes
+average time = 2.396030 
+average time = 2.394130 
+average time = 2.393350 
+average time = 2.395980 
+average time = 2.396030 
+average time = 2.395990 
+average time = 2.392840 
+average time = 2.395450 
+average time = 2.394590 
+average time = 2.395280 
+average time = 2.394480 
+average time = 2.394910 
+ 
+========== Round 2 test ==============
+result for 2 nodes
+average time = 0.411600 
+average time = 0.411590 
+ 
+result for 3 nodes
+average time = 1.315120 
+average time = 1.315090 
+average time = 1.315120 
+ 
+result for 4 nodes
+average time = 1.020130 
+average time = 1.019700 
+average time = 1.019870 
+average time = 1.019530 
+ 
+result for 5 nodes
+average time = 1.819360 
+average time = 1.818710 
+average time = 1.818720 
+average time = 1.817660 
+average time = 1.818720 
+ 
+result for 6 nodes
+average time = 1.645230 
+average time = 1.644480 
+average time = 1.645230 
+average time = 1.644330 
+average time = 1.644550 
+average time = 1.643350 
+ 
+result for 7 nodes
+average time = 1.909330 
+average time = 1.908630 
+average time = 1.910280 
+average time = 1.910540 
+average time = 1.909290 
+average time = 1.910930 
+average time = 1.908940 
+ 
+result for 8 nodes
+average time = 1.711230 
+average time = 1.711940 
+average time = 1.711230 
+average time = 1.711310 
+average time = 1.709890 
+average time = 1.711250 
+average time = 1.711080 
+average time = 1.711940 
+ 
+result for 9 nodes
+average time = 2.794810 
+average time = 2.794450 
+average time = 2.793310 
+average time = 2.794430 
+average time = 2.794180 
+average time = 2.793850 
+average time = 2.795660 
+average time = 2.793680 
+average time = 2.795650 
+ 
+result for 10 nodes
+average time = 2.336750 
+average time = 2.336060 
+average time = 2.336770 
+average time = 2.336060 
+average time = 2.335950 
+average time = 2.335610 
+average time = 2.336770 
+average time = 2.335270 
+average time = 2.334890 
+average time = 2.333900 
+ 
+result for 11 nodes
+average time = 2.645080 
+average time = 2.642090 
+average time = 2.644900 
+average time = 2.644210 
+average time = 2.644330 
+average time = 2.644010 
+average time = 2.643860 
+average time = 2.643720 
+average time = 2.645120 
+average time = 2.643370 
+average time = 2.642800 
+ 
+result for 12 nodes
+average time = 2.418910 
+average time = 2.417060 
+average time = 2.416680 
+average time = 2.418880 
+average time = 2.418920 
+average time = 2.418600 
+average time = 2.418430 
+average time = 2.418310 
+average time = 2.418120 
+average time = 2.417880 
+average time = 2.416410 
+average time = 2.417330 
+ 
+========== Round 3 test ==============
+result for 2 nodes
+average time = 0.417160 
+average time = 0.417160 
+ 
+result for 3 nodes
+average time = 1.231670 
+average time = 1.231590 
+average time = 1.231670 
+ 
+result for 4 nodes
+average time = 1.059400 
+average time = 1.058090 
+average time = 1.059110 
+average time = 1.058450 
+ 
+result for 5 nodes
+average time = 1.853660 
+average time = 1.852290 
+average time = 1.853670 
+average time = 1.853170 
+average time = 1.853400 
+ 
+result for 6 nodes
+average time = 1.725180 
+average time = 1.724810 
+average time = 1.723920 
+average time = 1.724870 
+average time = 1.725020 
+average time = 1.724620 
+ 
+result for 7 nodes
+average time = 1.822920 
+average time = 1.823760 
+average time = 1.822730 
+average time = 1.822230 
+average time = 1.821000 
+average time = 1.823250 
+average time = 1.823340 
+ 
+result for 8 nodes
+average time = 1.703080 
+average time = 1.703190 
+average time = 1.704200 
+average time = 1.704120 
+average time = 1.704210 
+average time = 1.702030 
+average time = 1.703550 
+average time = 1.704180 
+ 
+result for 9 nodes
+average time = 2.678260 
+average time = 2.677850 
+average time = 2.677850 
+average time = 2.677800 
+average time = 2.677530 
+average time = 2.677350 
+average time = 2.678330 
+average time = 2.675820 
+average time = 2.676540 
+ 
+result for 10 nodes
+average time = 2.332430 
+average time = 2.331530 
+average time = 2.331850 
+average time = 2.331540 
+average time = 2.332740 
+average time = 2.331510 
+average time = 2.330740 
+average time = 2.330850 
+average time = 2.332720 
+average time = 2.329640 
+ 
+result for 11 nodes
+average time = 2.625220 
+average time = 2.625130 
+average time = 2.625120 
+average time = 2.624800 
+average time = 2.624770 
+average time = 2.624520 
+average time = 2.624330 
+average time = 2.623820 
+average time = 2.622160 
+average time = 2.623650 
+average time = 2.623230 
+ 
+result for 12 nodes
+average time = 2.401870 
+average time = 2.401550 
+average time = 2.401320 
+average time = 2.400950 
+average time = 2.400770 
+average time = 2.400610 
+average time = 2.400240 
+average time = 2.402100 
+average time = 2.400120 
+average time = 2.399860 
+average time = 2.402080 
+average time = 2.401450 
+ 
+========== Round 4 test ==============
+result for 2 nodes
+average time = 0.446650 
+average time = 0.446660 
+ 
+result for 3 nodes
+average time = 1.283640 
+average time = 1.283880 
+average time = 1.283790 
+ 
+result for 4 nodes
+average time = 1.019810 
+average time = 1.020580 
+average time = 1.020140 
+average time = 1.019220 
+ 
+result for 5 nodes
+average time = 1.857650 
+average time = 1.857840 
+average time = 1.857710 
+average time = 1.856390 
+average time = 1.856290 
+ 
+result for 6 nodes
+average time = 1.732140 
+average time = 1.732690 
+average time = 1.732710 
+average time = 1.732080 
+average time = 1.731300 
+average time = 1.732230 
+ 
+result for 7 nodes
+average time = 1.853920 
+average time = 1.852750 
+average time = 1.853880 
+average time = 1.853200 
+average time = 1.851800 
+average time = 1.852390 
+average time = 1.852170 
+ 
+result for 8 nodes
+average time = 1.623330 
+average time = 1.625340 
+average time = 1.624790 
+average time = 1.625340 
+average time = 1.625280 
+average time = 1.623770 
+average time = 1.625280 
+average time = 1.624420 
+ 
+result for 9 nodes
+average time = 2.665420 
+average time = 2.667590 
+average time = 2.667700 
+average time = 2.667320 
+average time = 2.667250 
+average time = 2.666640 
+average time = 2.668090 
+average time = 2.666700 
+average time = 2.666430 
+ 
+result for 10 nodes
+average time = 2.347850 
+average time = 2.347520 
+average time = 2.347330 
+average time = 2.346740 
+average time = 2.348150 
+average time = 2.345470 
+average time = 2.346460 
+average time = 2.346310 
+average time = 2.348150 
+average time = 2.347730 
+ 
+result for 11 nodes
+average time = 2.621840 
+average time = 2.621450 
+average time = 2.621370 
+average time = 2.621120 
+average time = 2.620960 
+average time = 2.620650 
+average time = 2.622150 
+average time = 2.620330 
+average time = 2.619760 
+average time = 2.619100 
+average time = 2.621460 
+ 
+result for 12 nodes
+average time = 2.413600 
+average time = 2.411510 
+average time = 2.411330 
+average time = 2.413610 
+average time = 2.413600 
+average time = 2.410520 
+average time = 2.413300 
+average time = 2.413150 
+average time = 2.412770 
+average time = 2.411950 
+average time = 2.412270 
+average time = 2.412230 
+ 
+========== Round 5 test ==============
+result for 2 nodes
+average time = 0.406240 
+average time = 0.406250 
+ 
+result for 3 nodes
+average time = 1.294610 
+average time = 1.294460 
+average time = 1.294470 
+ 
+result for 4 nodes
+average time = 1.027350 
+average time = 1.027650 
+average time = 1.027110 
+average time = 1.026260 
+ 
+result for 5 nodes
+average time = 1.798050 
+average time = 1.799340 
+average time = 1.799640 
+average time = 1.799220 
+average time = 1.798930 
+ 
+result for 6 nodes
+average time = 1.671260 
+average time = 1.670330 
+average time = 1.672040 
+average time = 1.671340 
+average time = 1.670880 
+average time = 1.670300 
+ 
+result for 7 nodes
+average time = 1.835630 
+average time = 1.835440 
+average time = 1.835360 
+average time = 1.835550 
+average time = 1.836540 
+average time = 1.835970 
+average time = 1.836100 
+ 
+result for 8 nodes
+average time = 1.646320 
+average time = 1.647440 
+average time = 1.648810 
+average time = 1.647840 
+average time = 1.647540 
+average time = 1.647360 
+average time = 1.646890 
+average time = 1.646410 
+ 
+result for 9 nodes
+average time = 2.659400 
+average time = 2.659460 
+average time = 2.659430 
+average time = 2.659460 
+average time = 2.659180 
+average time = 2.657420 
+average time = 2.658560 
+average time = 2.658520 
+average time = 2.658380 
+ 
+result for 10 nodes
+average time = 2.317240 
+average time = 2.315870 
+average time = 2.315570 
+average time = 2.317240 
+average time = 2.315290 
+average time = 2.317110 
+average time = 2.316950 
+average time = 2.316660 
+average time = 2.316420 
+average time = 2.316200 
+ 
+result for 11 nodes
+average time = 2.610140 
+average time = 2.610100 
+average time = 2.610050 
+average time = 2.609760 
+average time = 2.607280 
+average time = 2.609170 
+average time = 2.609090 
+average time = 2.610140 
+average time = 2.608440 
+average time = 2.608440 
+average time = 2.608290 
+ 
+result for 12 nodes
+average time = 2.368460 
+average time = 2.366270 
+average time = 2.368100 
+average time = 2.367850 
+average time = 2.367640 
+average time = 2.367380 
+average time = 2.365090 
+average time = 2.367000 
+average time = 2.366410 
+average time = 2.368370 
+average time = 2.368500 
+average time = 2.365950 
+ 
+========== Round 6 test ==============
+result for 2 nodes
+average time = 0.437530 
+average time = 0.437530 
+ 
+result for 3 nodes
+average time = 1.195870 
+average time = 1.195870 
+average time = 1.195840 
+ 
+result for 4 nodes
+average time = 1.082860 
+average time = 1.082490 
+average time = 1.083530 
+average time = 1.082990 
+ 
+result for 5 nodes
+average time = 1.835540 
+average time = 1.837140 
+average time = 1.837670 
+average time = 1.836740 
+average time = 1.836940 
+ 
+result for 6 nodes
+average time = 1.740270 
+average time = 1.740220 
+average time = 1.738560 
+average time = 1.740230 
+average time = 1.739970 
+average time = 1.739180 
+ 
+result for 7 nodes
+average time = 1.842640 
+average time = 1.841370 
+average time = 1.842680 
+average time = 1.840700 
+average time = 1.841200 
+average time = 1.841480 
+average time = 1.840580 
+ 
+result for 8 nodes
+average time = 1.659460 
+average time = 1.659380 
+average time = 1.659490 
+average time = 1.658820 
+average time = 1.659480 
+average time = 1.658910 
+average time = 1.658210 
+average time = 1.658280 
+ 
+result for 9 nodes
+average time = 2.669260 
+average time = 2.668860 
+average time = 2.668780 
+average time = 2.668810 
+average time = 2.668960 
+average time = 2.668720 
+average time = 2.669300 
+average time = 2.668800 
+average time = 2.668590 
+ 
+result for 10 nodes
+average time = 2.356210 
+average time = 2.355650 
+average time = 2.356190 
+average time = 2.355760 
+average time = 2.355650 
+average time = 2.355270 
+average time = 2.353640 
+average time = 2.355130 
+average time = 2.354910 
+average time = 2.354580 
+ 
+result for 11 nodes
+average time = 2.610310 
+average time = 2.610120 
+average time = 2.610310 
+average time = 2.609860 
+average time = 2.609650 
+average time = 2.609260 
+average time = 2.607440 
+average time = 2.610370 
+average time = 2.608830 
+average time = 2.608720 
+average time = 2.608380 
+ 
+result for 12 nodes
+average time = 2.403680 
+average time = 2.403500 
+average time = 2.403300 
+average time = 2.402910 
+average time = 2.401230 
+average time = 2.402360 
+average time = 2.402160 
+average time = 2.403810 
+average time = 2.402020 
+average time = 2.401660 
+average time = 2.403660 
+average time = 2.403820 
+ 
+========== Round 7 test ==============
+result for 2 nodes
